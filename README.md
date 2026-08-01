@@ -1,4 +1,4 @@
-# 📊 تحليل بيانات الفشل الكلوي باستخدام خوارزمية بايثون - مستشفى الثورة العام (إب)
+# 📊 تحليل بيانات الفشل الكلوي باستخدام خوارزمية مبنية بلغة بايثون - مستشفى الثورة العام (إب)
 ## Kidney Failure Data Analytics & Predictive AI Algorithm - Al-Thawra Hospital (Ibb)
 
 ---
@@ -35,4 +35,4 @@ A Python-based data analytics and AI algorithm structured into four key phases. 
 ## 👩‍💻 إعداد وتطوير (Developed By)
 - **المهندسة: غدير الهجري (Eng. Ghadeer Al-Hajari)**
 - خريجة تقنية معلومات - متخصصة في تحليل البيانات والذكاء الاصطناعي.
-- 📍 إب - صنعاء، اليمن.
+- 📍 إب - اليمن.
